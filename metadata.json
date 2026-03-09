@@ -1,0 +1,5 @@
+{
+  "name": "Rasoi Smart - Indian Meal Planner",
+  "description": "A smart meal planning assistant for busy Indian professionals, offering quick, healthy, and nutritionally balanced recipes for breakfast, lunch, dinner, and brunch.",
+  "requestFramePermissions": ["microphone"]
+}
